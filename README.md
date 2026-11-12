@@ -1,10 +1,8 @@
-<h1 align="center">Shakil Ahmed</h1>
+# Hi! 👋 I'm Shakil Ahmed
 
-<p align="center">Full stack developer from Bangladesh, building scalable web apps. Fueled by new tech and good coffee. ☕</p>
+Full stack developer from Bangladesh, building scalable web apps. Fueled by new tech and good coffee. ☕
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shakil0031"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil0031)
 
 ## 🛠️ Skills
 
