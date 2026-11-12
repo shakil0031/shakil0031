@@ -3,6 +3,7 @@
 Full stack developer from Bangladesh, building scalable web apps. Fueled by new tech and good coffee. ☕
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil0031)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakilme0031@gmail.com)
 
 ## 🛠️ Skills
 
